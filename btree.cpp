@@ -147,7 +147,6 @@ void BT::search(std::string k){
             }
             else if (num_it == root->num_keys-1) {
                 num_it++;
-                break;
             }
         }
     
