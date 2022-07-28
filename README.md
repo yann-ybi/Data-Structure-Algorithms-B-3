@@ -15,9 +15,9 @@ Compiling is calling a function called a compiler to translate the computer code
 
 # How to compile the code
 
-The source code contains three files that can be in the same folder and after accesing the folder of the file with: cd <name of folder>
+The source code contains three files that can be in the same folder and after accesing the folder of the file with: cd name of folder
 It can be compiles using:
-g++ -std=c++11 -Wall main.cpp btree.cpp -o <compiledFileName>
+g++ -std=c++11 -Wall main.cpp btree.cpp -o compiledFileName
 - <p> compiledFileName: name desired for the compiled file. </p>
   
 ### example: g++ -std=c++11 -Wall main.cpp btree.cpp -o btree
