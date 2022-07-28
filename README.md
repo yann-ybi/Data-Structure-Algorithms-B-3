@@ -24,7 +24,7 @@ g++ -std=c++11 -Wall main.cpp btree.cpp -o compiledFileName
 
 # How to run the code?
   
-The code should be run with: ./compiledFileName <degree> <fname1> <fname2> <fname3>
+The code should be run with: ./compiledFileName degree fname1 fname2 fname3
 - compiledFileName: The name of the compiled filed
 - degree: a numer for the degree of the tree we want to create (number of maximum keys in a node)
 - fname1: the name of a file containing the list of words to insert in the tree
