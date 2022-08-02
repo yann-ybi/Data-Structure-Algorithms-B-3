@@ -5,7 +5,7 @@
 
 # Introduction
 
-This is a repository for source code of the implementation of a b-tree, a self balancing tree data structure fully presented in this [report](https://docs.google.com/document/d/1U6YQNCGhB913AHjNxEAv0Uc0Uue7i_7pCujP0fb6XwA/edit?usp=sharing) and illustrated with these [slides](https://docs.google.com/presentation/d/1f7UmGo35Y4HxlUk8YhF094GzNUajxF-z5FUNUBeX5og/edit?usp=sharing)
+This is a repository for source code of the implementation of a b-tree, a self balancing tree data structure fully presented in this [report](https://docs.google.com/document/d/1hOblLEadIDuV1mCtJRkpIWDaUcB5ul2jVerV-Yta8GI/edit) and illustrated with these [slides](https://docs.google.com/presentation/d/1Xi1Ecpluro6xkfud8iqMEVg9JlCLWUvplezL49bRpTw/edit#slide=id.gfdb8932c86_0_17)
 
 # How to use the source code?
 
