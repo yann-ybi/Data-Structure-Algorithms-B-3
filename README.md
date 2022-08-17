@@ -1,6 +1,6 @@
 # <p align="center"> UNIVERSITY OF RHODE ISLAND </p>
 # <p align="center"> CSC212 FINAL PROJECT: B-TREE IMPLEMENTATION</p>
-<p> Professor Christian R Esteves </p>
+
 <p> By Yann Youbi </p>
 
 # Introduction
